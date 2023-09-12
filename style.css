@@ -1,0 +1,232 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background:linear-gradient(135deg,#042032, #9b59b6)
+   
+}
+
+
+.navbar {
+    color: #fff;
+    background:linear-gradient(135deg,#042032, #9b59b6)
+}
+
+.navbar-brand {
+    color: #fff;
+    font-size: 24px; 
+    background:linear-gradient(135deg,#042032, #9b59b6)
+   
+}
+
+.navbar-nav .nav-item {
+    margin-right: 15px; 
+}
+
+.navbar-nav .nav-link {
+    color: #fff; 
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffeb3b; 
+}
+
+
+.jumbotron {
+    background-image: url('header-background.jpg'); 
+    background-size: cover;
+    color: #fff; 
+    padding: 70px 70; 
+    background:linear-gradient(135deg,#042032, #9b59b6)
+    
+}
+.text-left {
+    float: left; 
+    width: 70%; 
+    padding-right: 20px; 
+}
+
+.image-container {
+    float: right; 
+}
+
+
+button {
+    background-color: #2e0729; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 10px; 
+    cursor: pointer; 
+    margin: 10px; 
+}
+.abc
+{  
+    color: #fff; 
+
+}
+
+button:hover {
+    background-color: #45a049; 
+}
+
+
+
+/* Content Styles */
+.container {
+    padding: 30px 0; /* Adjust content padding */
+    border-color: rgb(255, 145, 0);
+}
+
+.nxtcontainer
+{
+    background:linear-gradient(135deg,#042032, #9b59b6);
+    color: #fff; 
+    padding: 10px 20px; 
+    border:#ae22ff;
+    border-radius: 10px; 
+   
+    margin: 10px; 
+
+}
+.feature
+{
+    color: #fff; 
+    text-align: center;
+}
+
+.jumbotron1
+{
+    background-image: url('header-background.jpg'); 
+    background-size: cover;
+    color: #fff; 
+    padding: 70px 70; 
+    background:linear-gradient(135deg,#042032, #9b59b6)
+}
+.nxt1container
+
+
+{
+    background:linear-gradient(135deg,#042032, #9b59b6);
+    color: #fff; 
+    padding: 10px 20px; 
+    border:#ae22ff;
+    border-radius: 10px; 
+   
+    margin: 10px; 
+}
+
+#buyButton {
+    background-color: purple;
+    color: #fff; /* Text color */
+    border: none;
+}
+
+footer {
+    color: #fff; 
+    padding: 10px 0; 
+    font-size: 14px;
+    background-color: #333; 
+}
+
+
+
+
+
+.parallel-div {
+    float: right; /* Float the parallel div to the left */
+    width: 50%; /* Set the width as needed */
+    margin-right: 20px; /* Add some margin for spacing */
+}
+.testimonials 
+{
+    background:linear-gradient(135deg,#042032, #9b59b6);
+    color: #fff; 
+}
+
+
+
+.flex-container {
+    display: flex; /* Use flex to create a flex container */
+    justify-content: space-between; /* Distribute items with space between them */
+    padding: 2px;
+    gap: 20px;
+}
+
+.flex-item {
+    flex: 1; /* Distribute available space equally among flex items */
+    padding: 20px; /* Add padding for spacing between items */
+    border: 1px solid #ccc; /* Add a border for visualization */
+}
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    button {
+        font-size: 1.2rem;
+    }
+}
+/*footer*/
+footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .footer-links {
+            margin-top: 10px;
+        }
+
+        .footer-links a {
+            color: #fff;
+            text-decoration: none;
+            margin: 10px;
+        }
+
+        .social-media {
+            margin-top: 20px;
+        }
+
+        .social-media a {
+            color: #fff;
+            text-decoration: none;
+            margin: 10px;
+        }
+/*for styling of mail and sub,mit button*/
+/* Style for email input */
+input[type="email"] {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+}
+
+/* Style for submit button */
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Hover effect for the submit button */
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+
+
+
+
+
+
